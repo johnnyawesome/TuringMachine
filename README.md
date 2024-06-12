@@ -12,7 +12,7 @@ While minimalistic in it's design, it is in fact [Turing Complete](https://en.wi
 
 In short, universal Turing Machines are amazing! Such a simplistic design that is able to compute anything that is computeable - count me in! 🤩
 
-To learn more about Turing Machines, I highly recommend [This video](https://www.youtube.com/watch?v=dNRDvLACg5Q) by [Computerphile](https://www.youtube.com/@Computerphile).
+To learn more about Turing Machines, I highly recommend [this video](https://www.youtube.com/watch?v=dNRDvLACg5Q) by [Computerphile](https://www.youtube.com/@Computerphile).
 
 ## Code
 
