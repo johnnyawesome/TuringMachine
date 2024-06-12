@@ -4,7 +4,7 @@
 
 ![Interactive Turing Machine](https://github.com/johnnyawesome/TuringMachine/blob/main/Turing%20Machine/DemoImages/InteractiveTuringMachine.gif?raw=true)
 
-## What is a turing machine
+## What is a turing machine?
 
 In short, it's a minimalist computer, invented in 1936 by [Alan Turing](https://en.wikipedia.org/wiki/Alan_Turing).
 
