@@ -55,7 +55,7 @@ From left to right, you can see various data about the head 🤖:
 - The head's current position
 - The direction the head will move next
 
-###Metrics about the tape 🤖
+### Metrics about the tape 🤖
 
 At the bottom, there is a live-version of the tape and it's current data:
 
