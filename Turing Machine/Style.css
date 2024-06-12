@@ -1,0 +1,39 @@
+body {
+
+  /* Color */
+  background-color: black;
+  color: lime;
+
+  /* Font */
+  font-size: 18px;
+  font-weight: bold;
+}
+
+textarea {
+
+  /* Font */
+  font-size: 18px;
+  font-weight: bold;
+
+  /* Round corners*/
+  border-radius: 5px;
+  border: 2px solid lime;
+
+  padding: 5px;
+
+  /* Color */
+  color: lime;
+  background-color: rgb(39, 40, 40);
+}
+
+table,
+th,
+td {
+
+  /* Borders */
+  border: 2px solid lime;
+
+  /* Round corners */
+  border-radius: 5px;
+  border: 2px solid lime;
+}

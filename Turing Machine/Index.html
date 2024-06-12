@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Turing Machine by JohnnyAwesome</title>
+  <link rel="stylesheet" href="Style.css">
+  <script src="Main.js" defer></script>
+  <script src="TuringMachine.js" defer></script>
+</head>
+
+<body>
+
+  <center>
+
+    <h1>Turing Machine by JohnnyAwesome</h1>
+
+    Head starting state:
+    <textarea id="startingstate" name="startingstate" rows="1" cols="1">s1</textarea>
+
+    <br>
+
+    Head starting position:
+    <textarea id="startingposition" name="startingposition" rows="1" cols="1">0</textarea>
+
+    <p>Ruleset:</p>
+    <textarea id="ruleset" name="ruleset" rows="6" cols="50">
+      {
+        "s1": {
+          "0": ["s1", "0", "R"],
+          "1": ["s1", "1", "R"],
+          "B": ["s2", "B", "L"]
+        },
+        "s2": {
+          "0": ["s3", "1", "L"],
+          "1": ["s2", "0", "L"],
+          "B": ["s3", "1", "L"]
+        },
+        "s3": {
+          "0": ["s3", "0", "L"],
+          "1": ["s3", "1", "L"],
+          "B": ["s1", "B", "R"]
+        }
+      }
+    </textarea>
+
+    <br>
+
+    Load ruleset:
+    <button onclick="loadOneIncrementRules()">Increment by 1</button>
+    <button onclick="(loadInfiniteIncrementRules())">Increment indefinitely</button>
+
+    <p>Tape:</p>
+    <textarea id="startingtape" name="startingtape" rows="1" cols="10">101</textarea>
+
+    <p>Calculation speed</p>
+    <input id="calcSpeed" type="range" min="1" max="3000" value="1000" class="slider">
+
+    <br><br>
+
+    <button onclick="main()">👾Start!👾</button>
+
+    <br><br>
+
+    <div id="display"></div>
+  </center>
+
+</body>
+
+</html>
