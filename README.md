@@ -49,10 +49,11 @@ From left to right, you can see various data about the head:
 - The head's current position
 - The direction the head will move next
 
-Also, there is a live-version of the tape:
+At the bottom, there is a live-version of the tape and it's current data:
 
 ![Head and tape live-metrics](https://github.com/johnnyawesome/TuringMachine/blob/main/Turing%20Machine/DemoImages/LiveHeadAndTapeData.gif?raw=true)
 
-- The tape is updated in realtime
-- There's a small robot-head indicating where the head is currently located
-- The current field that the head is processing is highlighted in blue
+- All the data (the 0's and 1's) that are written on the tape are displayed and updated in realtime
+- In the upper row, here's a small robot-head indicating where the head of the Turing Machine is currently located above the tape
+- The bottom-row shows all the data that the tape currently holds, and is updated each step
+- The current field of the tape that the head is processing, is highlighted in blue
