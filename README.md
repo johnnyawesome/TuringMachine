@@ -44,7 +44,7 @@ And finally, you can adjust the calculation-speed (the time per interval for one
 
 ### Metrics about the head 🤖
 
-When you run the Turing Machine, several live-metrics are displayed for the head as well as a live-version of the tape:
+When you run the Turing Machine, several live-metrics are displayed for the head, as well as a live-version of the tape:
 
 ![Head and tape live-metrics](https://github.com/johnnyawesome/TuringMachine/blob/main/TuringMachine/DemoImages/LiveHeadAndTapeData.gif?raw=true)
 
