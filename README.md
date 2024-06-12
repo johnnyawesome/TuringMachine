@@ -14,7 +14,7 @@ Since the [Turing Machine](https://en.wikipedia.org/wiki/Turing_machine) is a mi
 
 The [Turing Machine](https://en.wikipedia.org/wiki/Turing_machine) I wrote is highly interactive and customizeable:
 
-You can customize the head's starting state and position:
+### You can customize the head's starting state and position:
 
 ![Head starting state and position](https://github.com/johnnyawesome/TuringMachine/blob/main/Turing%20Machine/DemoImages/HeadStartingStateAndPosition.jpg?raw=true)
 
