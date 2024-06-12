@@ -26,19 +26,19 @@ The [Turing Machine](https://en.wikipedia.org/wiki/Turing_machine) I wrote is hi
 
 You can customize the head's 🤖 starting state and position:
 
-![Head starting state and position](https://github.com/johnnyawesome/TuringMachine/blob/main/Turing%20Machine/DemoImages/HeadStartingStateAndPosition.jpg?raw=true)
+![Head starting state and position](https://github.com/johnnyawesome/TuringMachine/blob/main/TuringMachine/DemoImages/HeadStartingStateAndPosition.jpg?raw=true)
 
 You can define your own, custom set of rules or you can load a pre-defined ruleset:
 
-![Rule Set](https://github.com/johnnyawesome/TuringMachine/blob/main/Turing%20Machine/DemoImages/Ruleset.jpg?raw=true)
+![Rule Set](https://github.com/johnnyawesome/TuringMachine/blob/main/TuringMachine/DemoImages/Ruleset.jpg?raw=true)
 
 You can also choose your own starting-values for the tape:
 
-![Tape starting values](https://github.com/johnnyawesome/TuringMachine/blob/main/Turing%20Machine/DemoImages/TapeStartingValues.jpg?raw=true)
+![Tape starting values](https://github.com/johnnyawesome/TuringMachine/blob/main/TuringMachine/DemoImages/TapeStartingValues.jpg?raw=true)
 
 And finally, you can adjust the calculation-speed (the time per interval for one step) of the Turing Machine:
 
-![Calculation-Speed per step](https://github.com/johnnyawesome/TuringMachine/blob/main/Turing%20Machine/DemoImages/CalculationSpeed.jpg?raw=true)
+![Calculation-Speed per step](https://github.com/johnnyawesome/TuringMachine/blob/main/TuringMachine/DemoImages/CalculationSpeed.jpg?raw=true)
 
 ## Metrics
 
@@ -46,7 +46,7 @@ And finally, you can adjust the calculation-speed (the time per interval for one
 
 When you run the Turing Machine, several live-metrics are displayed for the head as well as a live-version of the tape:
 
-![Head and tape live-metrics](https://github.com/johnnyawesome/TuringMachine/blob/main/Turing%20Machine/DemoImages/LiveHeadAndTapeData.gif?raw=true)
+![Head and tape live-metrics](https://github.com/johnnyawesome/TuringMachine/blob/main/TuringMachine/DemoImages/LiveHeadAndTapeData.gif?raw=true)
 
 From left to right, you can see various data about the head 🤖:
 
@@ -59,7 +59,7 @@ From left to right, you can see various data about the head 🤖:
 
 At the bottom, there is a live-version of the tape and it's current data:
 
-![Head and tape live-metrics](https://github.com/johnnyawesome/TuringMachine/blob/main/Turing%20Machine/DemoImages/LiveHeadAndTapeData.gif?raw=true)
+![Head and tape live-metrics](https://github.com/johnnyawesome/TuringMachine/blob/main/TuringMachine/DemoImages/LiveHeadAndTapeData.gif?raw=true)
 
 - All the data (the 0's and 1's) that are written on the tape are displayed and updated in realtime
 - In the upper row, here's a small robot-head 🤖 indicating where the head of the Turing Machine is currently located above the tape
