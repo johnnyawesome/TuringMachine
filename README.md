@@ -8,6 +8,10 @@
 
 In short, it's a minimalist computer, invented in 1936 by [Alan Turing](https://en.wikipedia.org/wiki/Alan_Turing).
 
+While minimalistic in it's design, it is in fact [Turing Complete](https://en.wikipedia.org/wiki/Turing_completeness).
+
+In short, universal Turing Machines are amazing! Such a simplistic design that is able to compute anything that is computeable - count me in! 🤩
+
 To learn more about Turing Machines, I highly recommend [This video](https://www.youtube.com/watch?v=dNRDvLACg5Q) by [Computerphile](https://www.youtube.com/@Computerphile).
 
 ## Code
