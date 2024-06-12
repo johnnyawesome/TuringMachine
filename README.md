@@ -2,7 +2,7 @@
 
 ## An interactive Turing Machine written in Javascript, HTML and CSS
 
-![Interactive Turing Machine](https://github.com/johnnyawesome/TuringMachine/blob/main/Turing%20Machine/DemoImages/InteractiveTuringMachine.gif?raw=true)
+![Interactive Turing Machine](https://github.com/johnnyawesome/TuringMachine/blob/main/TuringMachine/DemoImages/InteractiveTuringMachine.gif?raw=true)
 
 ## What is a turing machine?
 
@@ -74,4 +74,4 @@ You'll learn a lot coding your own version of the Turing Machine, I highly recom
 
 Plus, it's just satisfying to watch it rattle up and down the tape! ☺
 
-![Interactive Turing Machine](https://github.com/johnnyawesome/TuringMachine/blob/main/Turing%20Machine/DemoImages/InteractiveTuringMachine.gif?raw=true)
+![Interactive Turing Machine](https://github.com/johnnyawesome/TuringMachine/blob/main/TuringMachine/DemoImages/InteractiveTuringMachine.gif?raw=true)
